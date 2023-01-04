@@ -6,3 +6,4 @@
 /extra/ssl/certbot
 /extra/ssl/nginx*
 /extra/ssl/dhparam.pem
+.vercel
